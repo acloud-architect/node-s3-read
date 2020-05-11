@@ -1,0 +1,22 @@
+{
+  "name": "s3-read",
+  "version": "1.0.0",
+  "description": "read s3 bucket using node js code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acloud-developer/node-s3-read.git"
+  },
+  "author": "acloud-developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acloud-developer/node-s3-read/issues"
+  },
+  "homepage": "https://github.com/acloud-developer/node-s3-read#readme",
+  "dependencies": {
+    "aws-sdk": "^2.673.0"
+  }
+}
